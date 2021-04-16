@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/li.jpg</file>
+        <file>Image/log.png</file>
+        <file>Image/mai.jpg</file>
+        <file>Image/new.png</file>
+        <file>Image/next.png</file>
+        <file>Image/pause.png</file>
+        <file>Image/play.png</file>
+        <file>Image/playlist.png</file>
+        <file>Image/pre.png</file>
+        <file>Image/prefer.png</file>
+        <file>Image/random.png</file>
+        <file>Image/seq.png</file>
+        <file>Image/setting.png</file>
+        <file>Image/single.png</file>
+        <file>Image/skin.png</file>
+        <file>Image/so.png</file>
+        <file>Image/volum.png</file>
+        <file>Image/xiaojio.jpg</file>
+        <file>Image/xie.jpg</file>
+        <file>Image/yuanshen.jpg</file>
+        <file>Image/down.png</file>
+    </qresource>
+</RCC>
